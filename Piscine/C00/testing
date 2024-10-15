@@ -1,0 +1,26 @@
+int main (void)
+{
+	ft_putchar('h');
+}
+
+int main (void)
+{
+	ft_print_alphabet();
+}
+
+int main (void)
+{
+	ft_print_reverse_alphabet();
+}
+
+int main (void)
+{
+	ft_print_numbers();
+}
+
+int main (void)
+{
+	ft_is_negative(3);
+	ft_putchar('\n');
+	ft_is_negative(-1);	
+}
